@@ -1,3 +1,38 @@
 body {
+  background-color:#96BAA5
+}
 
+h3 {
+  color: #5D9675;
+  text-align: center;
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 25px;
+  color:#377D54;
+  font-family: alegreya;
+}
+
+p {font-size: 35px;
+font-family: alegreya;
+color:#3F644E;
+}
+
+ul {list-style-type: circle;
+font-family: alegreya;
+font-size: 20px;
+color:#193926;
+}
+
+table {
+  tr: hover;
+  width: 30%;
+  text-align: center;
+  border: dashed 3px black;
+  border-color: #193926;
+  border-collapse: collapse;
+  font-family:alegreya;
+  font-size: 20px;
+  color:#193926
 }
